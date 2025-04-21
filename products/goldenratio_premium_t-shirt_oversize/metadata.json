@@ -1,0 +1,40 @@
+{
+    "id": "goldenratio_premium_t-shirt_oversize",
+    "header": "Футболка goldenratio OVERSIZE",
+    "details": "Футболка oversize с гравюрой «Большая волна в Канагаве» японского художника Кацусики Хокусая. В композиции используется золотое сечение, которое вносит порядок в хаос волн, ассоциированных с массивами данных.",
+    "sizes": [
+        "S",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "density": 240,
+    "materials": [
+        "хлопок",
+        "лайкра"
+    ],
+    "careInstructions": [
+        "стирать в воде до 30 С",
+        "гладить до 110 С",
+        "барабанная сушка запрещена",
+        "не отбеливать",
+        "горизонтальная сушка"
+    ],
+    "availability": "предзаказ",
+    "discount": 0,
+    "relatedProducts": [],
+    "collection": "MATH",
+    "model": "goldenratio",
+    "price": 4900,
+    "tags": ["oversize", "premium"],
+    "image": "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/goldenratio/products/goldenratio_premium_t-shirt_oversize/goldenratio_premium_t-shirt_oversize_1.webp",
+    "images": [
+        "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/goldenratio/products/goldenratio_premium_t-shirt_oversize/goldenratio_premium_t-shirt_oversize_1.webp",
+        "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/goldenratio/products/goldenratio_premium_t-shirt_oversize/goldenratio_premium_t-shirt_oversize_2.webp",
+        "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/goldenratio/products/goldenratio_premium_t-shirt_oversize/goldenratio_premium_t-shirt_oversize_3.webp"
+    ]
+}
