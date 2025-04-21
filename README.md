@@ -1,2 +1,1 @@
-# COLLECTION
-Template for collections
+# MATH
