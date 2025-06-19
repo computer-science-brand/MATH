@@ -1,0 +1,46 @@
+{
+    "id": "yugen_mandelbrot_premium_t-shirt_oversize",
+    "header": "Футболка Yugen Mandelbrot OVERSIZE",
+    "details": "Футболка oversize премиального качества из 95% хлопка (240 г/м²). На передней стороне мы видим множество Mandelbrot. Это один из самых известных примеров фракталов, обладающий бесконечно сложной самоподобной структурой. При увеличении его границ открываются всё новые детали, повторяющие исходную форму. Множество было исследовано и визуализировано Бенуа Мандельбротом в 1980-х годах и стало символом связи математики, компьютерной графики и теории хаоса, демонстрируя, как простая формула может порождать невероятную визуальную сложность. Дизайн выполнен в Японском стиле и выражает понятие Югэн. Этот дизайн подойдет фанатам аниме и Японской культуры.",
+    "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "sizeGrid": [
+        ["A", 61, 64, 67, 71],
+        ["B", 73, 73, 77, 79],
+        ["C", 42, 42, 44, 45]
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "density": 240,
+    "materials": [
+        "хлопок",
+        "лайкра"
+    ],
+    "careInstructions": [
+        "стирать в воде до 30 С",
+        "гладить до 110 С",
+        "барабанная сушка запрещена",
+        "не отбеливать",
+        "горизонтальная сушка"
+    ],
+    "availability": "предзаказ",
+    "discount": 0,
+    "relatedProducts": [],
+    "collection": "MATH",
+    "model": "fractal",
+    "price": 3950,
+    "tags": ["oversize", "premium"],
+    "image": "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/fractal/products/yugen_mandelbrot_premium_t-shirt_oversize/yugen_mandelbrot_premium_t-shirt_oversize_1.png",
+    "images": [
+        "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/fractal/products/yugen_mandelbrot_premium_t-shirt_oversize/yugen_mandelbrot_premium_t-shirt_oversize_1.png",
+        "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/fractal/products/yugen_mandelbrot_premium_t-shirt_oversize/yugen_mandelbrot_premium_t-shirt_oversize_2.png",
+        "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/fractal/products/yugen_mandelbrot_premium_t-shirt_oversize/yugen_mandelbrot_premium_t-shirt_oversize_3.png",
+        "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/fractal/products/yugen_mandelbrot_premium_t-shirt_oversize/yugen_mandelbrot_premium_t-shirt_oversize_4.png"
+    ]
+}
