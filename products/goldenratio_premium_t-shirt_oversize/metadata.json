@@ -29,11 +29,11 @@
         "горизонтальная сушка"
     ],
     "availability": "предзаказ",
-    "discount": 0,
+    "discount": 10,
     "relatedProducts": [],
     "collection": "MATH",
     "model": "goldenratio",
-    "price": 4900,
+    "price": 3500,
     "tags": ["oversize", "premium"],
     "image": "https://raw.githubusercontent.com/computer-science-brand/MATH/refs/heads/goldenratio/products/goldenratio_premium_t-shirt_oversize/goldenratio_premium_t-shirt_oversize_1.jpg",
     "images": [
